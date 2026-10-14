@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mxwK4BTuMvI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HomePC\\Desktop\\Natal\\React\\Movers\\Backend\\..csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HomePC\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\HomePC\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
